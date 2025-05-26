@@ -1,6 +1,6 @@
 # Pizzería mamma mía 
 
-➡️ Applicación web para la venta de pizzas (HITO 8 - PRUEBA FINAL)
+➡️ Applicación web para la venta de pizzas
 
 
 
